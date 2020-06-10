@@ -234,7 +234,7 @@ class Board extends React.Component {
         () => {
           setTimeout(
             () => this.evol_move(this.state.square, this.state.nextplayer),
-            500
+            50
           );
         }
       );
