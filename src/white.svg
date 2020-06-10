@@ -1,0 +1,28 @@
+<svg
+      style="overflow: hidden; position: relative; top: -0.875px;"
+    
+      version="1.1"
+      
+      height="100" width="100"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <defs>
+        <radialGradient id="1r_0.75_0.75__fff-_A0A0A0" fx="0.75" fy="0.75">
+          <stop offset="0%" stop-color="#ffffff"></stop>
+          <stop offset="100%" stop-color="#a0a0a0" stop-opacity="1"></stop>
+        </radialGradient>
+      </defs>
+      
+      <circle
+        style="fill-opacity: 1; opacity: 1; stroke-opacity: 0.3;"
+         cx="50"
+          cy="50"
+          r="45"
+        fill="url(#1r_0.75_0.75__fff-_A0A0A0)"
+        stroke="#000"
+        fill-opacity="1"
+        opacity="1"
+        stroke-opacity="0.3"
+        stroke-width="1.1"
+      ></circle>
+    </svg>
