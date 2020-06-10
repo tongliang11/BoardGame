@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/BoardGame/static/css/main.dc9b96b9.chunk.css",
+    "main.js": "/BoardGame/static/js/main.2a2d7e9f.chunk.js",
+    "main.js.map": "/BoardGame/static/js/main.2a2d7e9f.chunk.js.map",
+    "runtime-main.js": "/BoardGame/static/js/runtime-main.12c31b23.js",
+    "runtime-main.js.map": "/BoardGame/static/js/runtime-main.12c31b23.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/BoardGame/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b18b3d9a.chunk.js": "/BoardGame/static/js/2.b18b3d9a.chunk.js",
+    "static/js/2.b18b3d9a.chunk.js.map": "/BoardGame/static/js/2.b18b3d9a.chunk.js.map",
+    "index.html": "/BoardGame/index.html",
+    "precache-manifest.44fca197b11df7491fc3d3338e27a2f9.js": "/BoardGame/precache-manifest.44fca197b11df7491fc3d3338e27a2f9.js",
+    "service-worker.js": "/BoardGame/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/BoardGame/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.dc9b96b9.chunk.css.map": "/BoardGame/static/css/main.dc9b96b9.chunk.css.map",
+    "static/js/2.b18b3d9a.chunk.js.LICENSE.txt": "/BoardGame/static/js/2.b18b3d9a.chunk.js.LICENSE.txt",
+    "static/media/board.css": "/BoardGame/static/media/background.f0f60e52.svg",
+    "static/media/black.svg": "/BoardGame/static/media/black.63929d1f.svg",
+    "static/media/logo.svg": "/BoardGame/static/media/logo.5d5d9eef.svg",
+    "static/media/white.svg": "/BoardGame/static/media/white.4a343105.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12c31b23.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b18b3d9a.chunk.js",
+    "static/css/main.dc9b96b9.chunk.css",
+    "static/js/main.2a2d7e9f.chunk.js"
+  ]
+}
