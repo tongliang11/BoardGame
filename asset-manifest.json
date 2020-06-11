@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BoardGame/static/css/main.dc9b96b9.chunk.css",
-    "main.js": "/BoardGame/static/js/main.17d01236.chunk.js",
-    "main.js.map": "/BoardGame/static/js/main.17d01236.chunk.js.map",
+    "main.css": "/BoardGame/static/css/main.c6183516.chunk.css",
+    "main.js": "/BoardGame/static/js/main.97be8841.chunk.js",
+    "main.js.map": "/BoardGame/static/js/main.97be8841.chunk.js.map",
     "runtime-main.js": "/BoardGame/static/js/runtime-main.12c31b23.js",
     "runtime-main.js.map": "/BoardGame/static/js/runtime-main.12c31b23.js.map",
     "static/css/2.829c9cb5.chunk.css": "/BoardGame/static/css/2.829c9cb5.chunk.css",
     "static/js/2.b18b3d9a.chunk.js": "/BoardGame/static/js/2.b18b3d9a.chunk.js",
     "static/js/2.b18b3d9a.chunk.js.map": "/BoardGame/static/js/2.b18b3d9a.chunk.js.map",
     "index.html": "/BoardGame/index.html",
-    "precache-manifest.8b8647e53e6dc578c08c9a5fa197cab1.js": "/BoardGame/precache-manifest.8b8647e53e6dc578c08c9a5fa197cab1.js",
+    "precache-manifest.601dd11fa636cb303b7c7289c88abe2c.js": "/BoardGame/precache-manifest.601dd11fa636cb303b7c7289c88abe2c.js",
     "service-worker.js": "/BoardGame/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/BoardGame/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.dc9b96b9.chunk.css.map": "/BoardGame/static/css/main.dc9b96b9.chunk.css.map",
+    "static/css/main.c6183516.chunk.css.map": "/BoardGame/static/css/main.c6183516.chunk.css.map",
     "static/js/2.b18b3d9a.chunk.js.LICENSE.txt": "/BoardGame/static/js/2.b18b3d9a.chunk.js.LICENSE.txt",
     "static/media/board.css": "/BoardGame/static/media/background.f0f60e52.svg",
     "static/media/black.svg": "/BoardGame/static/media/black.63929d1f.svg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.12c31b23.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.b18b3d9a.chunk.js",
-    "static/css/main.dc9b96b9.chunk.css",
-    "static/js/main.17d01236.chunk.js"
+    "static/css/main.c6183516.chunk.css",
+    "static/js/main.97be8841.chunk.js"
   ]
 }
