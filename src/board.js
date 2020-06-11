@@ -64,6 +64,7 @@ class Board extends React.Component {
       square: Array(9).fill(0),
       nextplayer: null,
       step: 0,
+      onemore: 0,
     };
     this.initialize = this.initialize.bind(this);
   }
@@ -204,6 +205,7 @@ class Board extends React.Component {
       step: this.state.step + 1,
       nextplayer: player * -1,
     });
+    return "finished";
   }
 
   drop(ev) {
@@ -234,7 +236,7 @@ class Board extends React.Component {
         () => {
           setTimeout(
             () => this.evol_move(this.state.square, this.state.nextplayer),
-            50
+            500
           );
         }
       );
@@ -272,7 +274,12 @@ class Board extends React.Component {
         );
       }
     }
-
+    // if (this.state.onemore) {
+    //   setTimeout(() => {
+    //     this.evol_move(this.state.square, this.state.nextplayer);
+    //     // this.setState({ onemore: 0 });
+    //   }, 500);
+    // }
     return (
       <div>
         <div className="board">
@@ -289,10 +296,12 @@ class Board extends React.Component {
           <button
             className="button"
             onClick={() => {
-              this.evol_move(
-                this.state.square,
-                parseInt(this.state.nextplayer, 10)
-              );
+              this.evol_move(this.state.square, this.state.nextplayer);
+              setTimeout(() => {
+                this.evol_move(this.state.square, this.state.nextplayer);
+              }, 500);
+              // this.setState({ onemore: 1 });
+
               // console.log(this.state.square + " " + this.state.nextplayer);
             }}
           >
@@ -300,7 +309,7 @@ class Board extends React.Component {
           </button>
         </div>
         <div class="btwrapper">
-          <span>{status}</span>
+          <span style={{ fontSize: 23 }}>{status}</span>
         </div>
       </div>
     );
